@@ -1,0 +1,48 @@
+{
+  "name": "Beauty Tech Service",
+  "description": "Rigenerazione e riparazione di apparecchiature estetiche professionali. Assistenza tecnica specializzata per laser, IPL, pressoterapia, hydrafacial e molto altro.",
+  "keywords": [
+    "riparazione macchinari estetici",
+    "laser diodo",
+    "criolipolisi",
+    "radiofrequenza",
+    "hydrafacial",
+    "pressoterapia",
+    "rigenerazione manipoli"
+  ],
+  "address": {
+    "street": "Via Angelo Volpicelli",
+    "number": "8",
+    "city": "Arzano",
+    "province": "NA",
+    "postalCode": "80022",
+    "country": "Italia"
+  },
+  "contacts": {
+    "phone": "+39 351 628 1319",
+    "email": "info@beautytechservice.it",
+    "whatsapp": "https://wa.me/393516281319",
+    "telegram": "https://t.me/DoctorLaser808",
+    "instagram": "https://www.instagram.com/dalbiondowinefood/",
+    "facebook": "https://www.facebook.com/profile.php?id=61574667521864",
+    "youtube": "https://www.youtube.com/@doctorlaser"
+  },
+  "services": [
+    "Assistenza tecnica apparecchi estetici",
+    "Revisione attrezzature",
+    "Rigenerazione manipoli laser",
+    "Produzione personalizzata",
+    "Ricambi e accessori per macchinari estetici"
+  ],
+  "openingHours": {
+    "mondayToFriday": "09:00 - 18:00",
+    "saturday": "09:00 - 13:00",
+    "sunday": "Chiuso"
+  },
+  "geo": {
+    "latitude": 40.9168608,
+    "longitude": 14.2638788
+  },
+  "privacyPolicy": "/privacy.html",
+  "website": "https://www.beautytechservice.it"
+}
