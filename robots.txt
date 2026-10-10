@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.beautyteckservice.it/sitemap.xml
+Sitemap: https://www.idctech.it/sitemap.xml
